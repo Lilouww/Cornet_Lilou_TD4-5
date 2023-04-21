@@ -1,0 +1,9 @@
+.border-red {
+  border: 1px solid red;
+}
+.success {
+  color: green;
+}
+.error {
+  color: red;
+}
