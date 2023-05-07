@@ -1,7 +1,5 @@
 <?php
-print("coucou");
-print_r($_POST);
-print("coucou");
+
 if (empty($_POST) || empty($_POST['username']) || empty($_POST['password'])) {
     $result = [
         'success' => false,
